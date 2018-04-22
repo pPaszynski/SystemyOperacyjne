@@ -1,0 +1,2 @@
+rm wej*
+rm wyj*
