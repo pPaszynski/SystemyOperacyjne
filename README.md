@@ -1,2 +1,2 @@
 # SystemyOperacyjne
-WFMII_Informatyka_rok2_semIII_PK
+PK_WFMII_Informatyka_rok2_semIII
